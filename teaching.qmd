@@ -4,9 +4,90 @@ title: "Teaching"
 number-sections: false
 ---
 
-I offer private tutoring services, availability-allowing. For all inquiries, please email me
-[here](mailto:atticusd1@gmail.com){.external target="_blank"} (atticusd1@ gmail.com). 
+I offer private tutoring, as my availability allows. For all inquiries, please email me
+[here](mailto:atticusd1@gmail.com){.external target="_blank"} (atticusd1@ gmail.com). I am qualified to tutor the following (if something isn't listed, feel free to ask as I may have covered it): 
 
-## Experience 
+
+* **Math** (Pre-calculus, AP/IB Math, Calculus I-III, Differential Equations, Linear Algebra) 
+* **SAT/ACT prep**
+* **College Application prep** (Essay writing & school selection) 
+* **Physics** (AP/IB Physics, Physics I & II - mechanics, electricity & magnetism) 
+* **Statistics** (AP Stat, Probability, etc.) 
+* **English** (Literature, composition, technical writing) 
+* **Spanish Language** (Speaking/Reading/Writing) 
+* **2D Art** (Hand drawing/photography/painting)
+* **Computer Science, Philosophy**, and **Psychology** (Introductory-level)
+
+
+Courses I do not teach: 
+
+* Chemistry, Biology, Environmental Science
+* History/Political Science/Economics
+* Music/3D Art
+
+## Teaching Experience 
+
+:::{.callout-tip collapse="false" appearance="minimal"}
+## Private Tutoring <br> 
+***One-on-one and group tutoring*** <br>
+Fall 2023 - Present, Atlanta, GA
+:::
+
+
+:::{.callout-tip collapse="false" appearance="minimal"}
+## Atlanta Mission - Communication Skills <br> 
+***Volunteer Lecturer*** <br>
+Spring 2024, Atlanta, GA
+
+Gave series of volunteer lectures for Atlanta Mission's transformation project to help male clients develop written, oral and interpersonal communication skills. 
+:::
+
+:::{.callout-tip collapse="false" appearance="minimal"}
+## Foundations of Scientific Machine Learning <br> 
+***Graduate Teaching Assistant*** <br>
+Fall 2024 - Present, Atlanta, GA
+
+Worked with Elizabeth Qian, Ph.D. in the instruction and course development for the first offering of this senior-level Aerospace Engineering course at Georgia Tech. 
+:::
+
+:::{.callout-tip collapse="false" appearance="minimal"}
+## Computing for Data Analytics <br> 
+***Graduate Teaching Assistant*** <br>
+Fall 2023 - Spring 2023, Atlanta, GA
+
+Worked with Richard Vuduc, Ph.D. to help teach this graduate-level programming class at Georgia Tech. Held office hours, live coding demonstrations, problem-solving, 1-on-1 sessions, etc. 
+:::
+
+:::{.callout-tip collapse="false" appearance="minimal"}
+## VT Student Athletic Academic Support Services <br> 
+***Math Lecturer, Tutor*** <br>
+Fall 2019 - Spring 2022, Blacksburg, VA
+
+Earned highest paid undergraduate position at Virginia Tech through calculus lectures. Improved student grades by 20-30% on average and attended workshops to improve teaching. 
+:::
+
+## Testimonials 
+
+:::{.callout-warning collapse="false" appearance="minimal"}
+
+"Atticus is quite possibly the best tutor we have ever hired. He came in and was able to cover seemingly every STEM subject we needed. The athletes absolutely raved about him--after meeting with him once, they would come into my office demanding more sessions. He has tutored nearly every sport and helped the most difficult students." -Kayleigh W. (Former Supervisor)
+
+:::
+
+:::{.callout-warning collapse="false" appearance="minimal"}
+
+"[Atticus] taught me math for the first two and a half years of college. As a full-time D1 athlete with a learning disability, Atticus was the best tutor I had at Virginia Tech. I did not know how to do ANYTHING when we started (like he had to explain basic fractions and algebra). He took me from pre-calc to passing differential equations. He is so enthusiastic and kind, but he also expects effort and a mutual respect. He also worked really hard to support my learning accommodations. A great person and tutor." -[Anonymous in compliance with NCAA regulation]
+:::
+
+:::{.callout-warning collapse="false" appearance="minimal"}
+
+"Atticus helped my daughter with her pre-calculus and Spanish classes. He was patient, kind, and appeared to know the material backwards and forwards. My daughter likely wouldn't have passed this class without him. She ended up getting a B and was very proud of herself." -Beatrice T. 
+:::
+
+:::{.callout-warning collapse="false" appearance="minimal"}
+
+"My son had difficulty understanding his AP Calculus class--he and his teacher didn't mesh well. After working with Atticus, not only did my son's grades improve, but his confidence and enjoyment of the subject also increased. It's obvious Atticus absolutely loves the material and worked hard to make things relevant to my son's life. I couldn’t recommend Atticus more!" -Melissa C. 
+
+:::
 
 

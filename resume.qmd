@@ -14,7 +14,7 @@ number-sections: false
 ## Georgia Institute of Technology - Atlanta, GA  
 
 ***Ph.D. in Computational Science & Engineering***  
-Fall 2023 - Present  
+Fall 2024 - Present  
 
 **Home Unit:** Aerospace Engineering  
 **Advisor:** Elizabeth Qian, Ph.D.  
