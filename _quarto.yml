@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Navigation"
+  sidebar:
+    style: "docked"
+    collapse-level: 3
+    search: false
+    contents:
+      - text: "Home"
+        href: index.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Projects"
+        href: projects.qmd 
+      - text: "Teaching"
+        href: teaching.qmd
+
+
+number-sections: true
+
+execute:
+  freeze: auto
+
+format:
+  html:
+    theme: lumen
+    background-color: "#74992e"
+    css: css/custom.css

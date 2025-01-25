@@ -1,0 +1,31 @@
+---
+title: "Atticus Rex"
+about:
+  template: trestles
+  image: images/profile.png
+  links:
+    - icon: people
+      text: Lab
+      href: https://www.elizabethqian.com/research/ace-group
+      target: "_blank"
+    - icon: github
+      text: Github
+      href: https://github.com/atticusdrex
+      target: "_blank"
+    - icon: envelope
+      text: Email 
+      href: mailto:arex8@gatech.edu
+      target: "_blank"
+
+number-sections: false
+---
+
+# About
+I am a Ph.D. student at Georgia Tech in the Computational Science and Engineering (CSE) department with a home unit in Aerospace Engineering. I received a B.S. in Mechanical Engineering and a B.S. in Computational Modeling and Data Analytics from Virginia Tech. 
+
+## Research Interests 
+* Machine Learning & Surrogate Modeling  
+* Multi-Fidelity Modeling 
+* Kernel-Based Regression
+* Forward Uncertainty Quantification
+

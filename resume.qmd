@@ -1,0 +1,120 @@
+---
+title: "Resume"
+
+number-sections: false
+---
+
+<p style="font-size:14pt">
+[Atticus Rex Resume PDF](pdfs/AtticusRexResume.pdf){.external target="_blank"}
+</p>
+
+##  Education
+
+:::{.callout-note collapse="false" appearance="minimal"}
+## Georgia Institute of Technology - Atlanta, GA  
+
+***Ph.D. in Computational Science & Engineering***  
+Fall 2023 - Present  
+
+**Home Unit:** Aerospace Engineering  
+**Advisor:** Elizabeth Qian, Ph.D.  
+**Awards:** MSA Fellowship Award Recipient, GTA Funding
+:::
+
+:::{.callout-note collapse="false" appearance="minimal"}
+## Virginia Tech - Blacksburg, VA<br> 
+***B.S. in Computational Modeling & Data Analytics***<br>
+Fall 2019 - May 2023
+
+***B.S. in Mechanical Engineering***<br>
+Fall 2019 - May 2023
+
+**Awards:** Summa Cum Laude, Honors Laurate Diploma, Merit Scholarships, Creative-Writing Competition Finalist
+:::
+
+:::{.callout-note collapse="true"}
+## Graduate Coursework 
+
+* CSE 6243: Advanced Topics in Machine Learning 
+* ME 6401: Linear Control Theory
+* CSE 6730: Modeling & Simulation 
+* CSE 6740: Computational Data Analytics 
+* CSE 6140: Discrete Algorithms 
+* CSE 8803: Data-Science for Epidemiology
+* CSE 6242: Data and Visual Analytics
+* ISYE 6416: Computational Statistics
+* ISYE 6669: Deterministic Optimization 
+* ISYE 6402: Time-Series Analysis 
+* MGT 8803: Intro. to Business for Analytics
+* MGT 6203: Data Analytics for Business
+:::
+
+## Experience
+
+:::{.callout-tip collapse="false" appearance="minimal"}
+## Georgia Institute of Technology<br> 
+***Graduate Teaching Assistant***<br>
+Fall 2023 - Present, Atlanta, GA
+
+*AE 4803: Foundations of Scientific Machine Learning* <br>
+Assisted Professor Elizabeth Qian with curriculum development, instruction, course administration, grading, and assessment. 
+
+*CSE 6040: Computing for Data Analytics*<br>
+Held live-coding demonstrations and office hours, answered questions, debugged code, and assited with exam development. 
+:::
+
+:::{.callout-tip collapse="false" appearance="minimal"}
+## Cox Communications<br> 
+***Graduate Data Science Intern***<br>
+Summer 2024, Atlanta, GA
+
+Leveraged techniques in Natural Language Processing, Time-Series Analysis, and data mining with AWS (Sagemaker, Athena, SQL) to uncover novel insights into how outbound SMS notifications drive digital interactions. 
+:::
+
+:::{.callout-tip collapse="false" appearance="minimal"}
+## NAVSEA Naval Surface Warfare Center Dahlgren Division <br> 
+***Optimal Shock Damping for Improved Controllability of Antenna Test Fixture*** <br>
+Fall 2022 - Spring 2023, Blacksburg, VA
+
+Technical lead in specialized team to design and manufacture novel vibration equipment to simulate shock pulses. Achieved ~400% damping improvement and reduced cost by 80% compared to previous testing
+:::
+
+:::{.callout-tip collapse="false" appearance="minimal"}
+## VT Department of Agriculture & Applied Economics <br> 
+***Data-Science Intern*** <br>
+Spring 2022 - Fall 2022, Blacksburg, VA
+
+Developed software to survey conservation agriculture, oversaw the maintenance and storage of data, and worked in R and Python to conduct statistics, data analytics, and data visualization.
+:::
+
+:::{.callout-tip collapse="false" appearance="minimal"}
+## VT Student Athletic Academic Support Services <br> 
+***Math Lecturer, Tutor*** <br>
+Fall 2019 - Spring 2022, Blacksburg, VA
+
+Earned highest paid undergraduate position at Virginia Tech through calculus lectures. Improved student grades by 20-30% on average and attended workshops to improve teaching. 
+:::
+
+## Skills & Certifications
+
+:::{.callout-warning collapse="false" appearance="minimal"}
+## Engineering <br>
+
+**Certification:** Fundamentals of Engineering (FE Mechanical)<br>
+**Concepts:** Computational Fluid Dynamics, Finite-Element Analysis, CAD, Controls<br>
+**Software:** Ansys, Solidworks, MATLAB, NX
+:::
+
+:::{.callout-warning collapse="false" appearance="minimal"}
+## Data-Science <br> 
+
+**Concepts:** Machine Learning, Statistics, Inference, Natural Language Processing, Time Series Analysis, High-Performance Computing, Linear Algebra, Probability, Neural Networks, Kernel Methods <br>
+**Software:** Python (PySpark, PyTorch, Jax, Numpy, Pandas, Scikit-Learn, Dask), R, Tableau, SQL, MATLAB, Julia, Java, C/C++, Git, Linux
+:::
+
+:::{.callout-warning collapse="false" appearance="minimal"}
+## Languages <br> 
+
+**English:** Native Language<br>
+**Spanish:** Conversationally fluent
+:::

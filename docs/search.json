@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Atticus Rex",
+    "section": "",
+    "text": "I am a Ph.D. student at Georgia Tech in the Computational Science and Engineering (CSE) department with a home unit in Aerospace Engineering. I received a B.S. in Mechanical Engineering and a B.S. in Computational Modeling and Data Analytics from Virginia Tech.\n\n\n\nMachine Learning & Surrogate Modeling\n\nMulti-Fidelity Modeling\nKernel-Based Regression\nForward Uncertainty Quantification",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Atticus Rex",
+    "section": "Education",
+    "text": "Education\nUniversity of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Atticus Rex",
+    "section": "Experience",
+    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Atticus Rex Resume PDF",
+    "crumbs": [
+      "Resume"
+    ]
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Resume",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n\n\nGeorgia Institute of Technology - Atlanta, GA\n\n\n\n\n\nPh.D. in Computational Science & Engineering\nFall 2023 - Present\nHome Unit: Aerospace Engineering\nAdvisor: Elizabeth Qian, Ph.D.\nAwards: MSA Fellowship Award Recipient, GTA Funding\n\n\n\n\n\n\n\n\n\nVirginia Tech - Blacksburg, VA\n\n\n\n\n\nB.S. in Computational Modeling & Data Analytics Fall 2019 - May 2023\nB.S. in Mechanical Engineering Fall 2019 - May 2023\nAwards: Summa Cum Laude, Honors Laurate Diploma, Merit Scholarships, Creative-Writing Competition Finalist\n\n\n\n\n\n\n\n\n\nGraduate Coursework\n\n\n\n\n\n\nCSE 6243: Advanced Topics in Machine Learning\nME 6401: Linear Control Theory\nCSE 6730: Modeling & Simulation\nCSE 6740: Computational Data Analytics\nCSE 6140: Discrete Algorithms\nCSE 8803: Data-Science for Epidemiology\nCSE 6242: Data and Visual Analytics\nISYE 6416: Computational Statistics\nISYE 6669: Deterministic Optimization\nISYE 6402: Time-Series Analysis\nMGT 8803: Intro. to Business for Analytics\nMGT 6203: Data Analytics for Business",
+    "crumbs": [
+      "Resume"
+    ]
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume",
+    "section": "Experience",
+    "text": "Experience\n\n\n\n\n\n\nGeorgia Institute of Technology\n\n\n\n\n\nGraduate Teaching Assistant Fall 2023 - Present, Atlanta, GA\nAE 4803: Foundations of Scientific Machine Learning  Assisted Professor Elizabeth Qian with curriculum development, instruction, course administration, grading, and assessment.\nCSE 6040: Computing for Data Analytics Held live-coding demonstrations and office hours, answered questions, debugged code, and assited with exam development.\n\n\n\n\n\n\n\n\n\nCox Communications\n\n\n\n\n\nGraduate Data Science Intern Summer 2024, Atlanta, GA\nLeveraged techniques in Natural Language Processing, Time-Series Analysis, and data mining with AWS (Sagemaker, Athena, SQL) to uncover novel insights into how outbound SMS notifications drive digital interactions.\n\n\n\n\n\n\n\n\n\nNAVSEA Naval Surface Warfare Center Dahlgren Division \n\n\n\n\n\nOptimal Shock Damping for Improved Controllability of Antenna Test Fixture  Fall 2022 - Spring 2023, Blacksburg, VA\nTechnical lead in specialized team to design and manufacture novel vibration equipment to simulate shock pulses. Achieved ~400% damping improvement and reduced cost by 80% compared to previous testing\n\n\n\n\n\n\n\n\n\nVT Department of Agriculture & Applied Economics \n\n\n\n\n\nData-Science Intern  Spring 2022 - Fall 2022, Blacksburg, VA\nDeveloped software to survey conservation agriculture, oversaw the maintenance and storage of data, and worked in R and Python to conduct statistics, data analytics, and data visualization.\n\n\n\n\n\n\n\n\n\nVT Student Athletic Academic Support Services \n\n\n\n\n\nMath Lecturer, Tutor  Fall 2019 - Spring 2022, Blacksburg, VA\nEarned highest paid undergraduate position at Virginia Tech through calculus lectures. Improved student grades by 20-30% on average and attended workshops to improve teaching.",
+    "crumbs": [
+      "Resume"
+    ]
+  },
+  {
+    "objectID": "resume.html#virginia-tech-department-of-agriculture-applied-economics",
+    "href": "resume.html#virginia-tech-department-of-agriculture-applied-economics",
+    "title": "Resume",
+    "section": "Virginia Tech Department of Agriculture & Applied Economics ",
+    "text": "Virginia Tech Department of Agriculture & Applied Economics \nData-Science Intern  Spring 2022 - Fall 2022, Blacksburg, VA\nDeveloped software to survey conservation agriculture, oversaw the maintenance and storage of data, and worked in R and Python to conduct statistics, data analytics, and data visualization.",
+    "crumbs": [
+      "Resume"
+    ]
+  },
+  {
+    "objectID": "resume.html#georgia-institute-of-technology---atlanta-ga",
+    "href": "resume.html#georgia-institute-of-technology---atlanta-ga",
+    "title": "Resume",
+    "section": "",
+    "text": "Ph.D. in Computational Science & Engineering\nFall 2023 - Present\nHome Unit: Aerospace Engineering\nAdvisor: Elizabeth Qian, Ph.D.\nAwards: MSA Fellowship Award Recipient, GTA Funding",
+    "crumbs": [
+      "Resume"
+    ]
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume",
+    "section": "Skills",
+    "text": "Skills\n\n\n\n\n\n\n\n\n\n\n\n\nMath Lecturer, Tutor  Fall 2019 - Spring 2022, Blacksburg, VA\nEarned highest paid undergraduate position at Virginia Tech through calculus lectures. Improved student grades by 20-30% on average and attended workshops to improve teaching.",
+    "crumbs": [
+      "Resume"
+    ]
+  },
+  {
+    "objectID": "resume.html#skills-certifications",
+    "href": "resume.html#skills-certifications",
+    "title": "Resume",
+    "section": "Skills & Certifications",
+    "text": "Skills & Certifications\n\n\n\n\n\n\nEngineering \n\n\n\n\n\nCertification: Fundamentals of Engineering (FE Mechanical) Concepts: Computational Fluid Dynamics, Finite-Element Analysis, CAD, Controls Software: Ansys, Solidworks, MATLAB, NX\n\n\n\n\n\n\n\n\n\nData-Science \n\n\n\n\n\nConcepts: Machine Learning, Statistics, Inference, Natural Language Processing, Time Series Analysis, High-Performance Computing, Linear Algebra, Probability, Neural Networks, Kernel Methods  Software: Python (PySpark, PyTorch, Jax, Numpy, Pandas, Scikit-Learn, Dask), R, Tableau, SQL, MATLAB, Julia, Java, C/C++, Git, Linux\n\n\n\n\n\n\n\n\n\nLanguages \n\n\n\n\n\nEnglish: Native Language Spanish: Conversationally fluent",
+    "crumbs": [
+      "Resume"
+    ]
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Atticus Rex",
+    "section": "",
+    "text": "Machine Learning & Surrogate Modeling\n\nMulti-Fidelity Modeling\nKernel-Based Regression\nForward Uncertainty Quantification",
+    "crumbs": [
+      "Home"
+    ]
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Selected Projects",
+    "section": "",
+    "text": "Best Buy Project Week 2024: First Place Winner\n\n\n\n\n\nGeorgia Tech MSA Project Week sponsored by Best Buy\nSpring 2024\n\nLeveraged techniques in data mining, dimensionality reduction, parallel computing, and visualization to develop a deep learning model that accurately categorized over 500,000 customer service transcripts. \n\n\n\n\n\n\n\n\n\n\nDynamic Traffic Network Simulation and Modeling the Impact of Pluvial Flash Flooding\n\n\n\n\n\nGeorgia Tech Modeling & Simulation Term Project\nFall 2023\n\nIn contemporary transportation systems, the management of traffic flow under heavy load and unpredictable events such as flash floods are a critical challenge. The conventional static traffic assignment, where routes are fixed at the onset, is insufficient in addressing real-time variations in trip volumes, accidents, work zones, and weather conditions. Dynamic Traffic Assignment (DTA) is a pragmatic solution, adapting routing strategies continuously to evolving traffic conditions. Existing navigation services, while adept at adapting to incidents like accidents and road closures, often neglect unreported events like flash floods, posing a significant threat to both drivers and system integrity. By simplifying the traffic network setting, we will replicate diverse flooding intensities, enabling comprehensive evaluation of our dynamic traffic assignment strategy. By systematically analyzing these simulations, our research aims to establish a robust and adaptive framework for rerouting under flash flood conditions, thereby enhancing the resilience and safety of modern transportation networks. \n\nFull Report\n\n\n\n\n\n\n\n\n\n\n\nDiscovering Nonlinear Ordinary Differential Equations from Data: Epidemiology Case Study\n\n\n\n\n\nGeorgia Tech Data Science for Epidemiology Term Project\nFall 2023\n\nThis project outlines how to discover governing differential equations directly from data to determine the overall course of an epidemic. The two methodologies used to accomplish this will be the popular SINDy algorithm, developed by Brunton and Kutz et al. as well as the symbolic regression model applied to the derivative of the model. The group successfully used both methods to recover the SIR model from synthetic data with noise artificially added and to predict COVID-19 data. The PySR model, when effectively regularized showed promise in being able to robustly recover governing differential equations in the presence of noisy data. \n\nFull Report\n\n\n\n\n\n\n\n\n\n\n\nNonlinear Classification Methods for Valuation Changes and Portfolio Optimization\n\n\n\n\n\nGeorgia Tech Computational Data Analytics Term Project\nFall 2023\n\nThis paper investigates Adaptive Boosting (AdaBoost), Kernel Ridge Regression, and Kernel Support Vector Machines and their ability to predict valuation changes in Exon Mobil stock augmented with exogenous regressors of oil price per barrel, S&P 500 data, google search data, and electric car demand. Further, this report also investigates applying the AdaBoost algorithm to high-frequency trading, optimized and diversified by applying Markowitz Portfolio theory to form a convex minimization problem. The report found that AdaBoost outperformed KRR, and KSVM, especially when the number of rounds of boosting was increased. Further, the portfolio optimization algorithm converged on six companies to apply the algorithm to and outputted the optimal allocation of capital to each strategy. This has strong implications in the field of quantitative finance and was demonstrated to be profitable in this paper. \n\nFull Report\n\n\n\n\n\n\n\n\n\n\n\nEcho State Networks for Dynamical System Modeling\n\n\n\n\n\nVirginia Tech Undergraduate Research Project\nFall 2022 - Spring 2023  Advisor: Serkan Gugercin, Ph.D. \n\nThis paper develops a framework for improving upon traditional regression methods to model discrete nonlinear dynamical systems. This framework is derived from a branch of recurrent neural-networks called Echo State Networks (ESNs). This report compares this methodology to the famous Sparse Identification of Nonlinear Dynamics (SINDy) framework developed by Brunton et al. This investigation specifically analyzes the Lorenz System as an example nonlinear and chaotic system. In the models investigated within this report, the Linear ESN model outperforms the SINDy algorithm when noise in the system is sufficiently low. The SINDy algorithm is also far more computationally intensive, requiring much more data to yield comparable results. In addition, SINDy requires sampling of a numerical derivative of a signal. Using finite difference methods amplifies any noise present in the signal, and thus, a direct, discrete method for calculating a regularized derivative is proposed, based on the Total Variation Regularized Derivative (TVD). \n\nFull Report\n\n\n\n\n\n\n\n\n\n\n\nOptimal Damping for Improved Controllability of Shock Test Fixture\n\n\n\n\n\nVirginia Tech Mechanical Engineering Senior Design Project\nFall 2022 - Spring 2023\n\nNaval antennas require extensive shock testing and evaluation before being deployed on surface warships. The purpose of this project was to design, simulate, validate, manufacture, and test a prototype that emulates shock impacts on naval communication antennas for the Naval Surface Warfare Center - Dahlgren Division (Dahlgren). The team produced an active and a passive solution with priority on modeling sample shock, which is irregular, high-frequency and high-velocity. The full report covers customer needs, concept generation, prototyping, concept down selection, designs, simulation, analysis, and general team attributes. \n\nFull Report\n\n\n\n\n\n\n\n\n\n\nMore Details\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEigenvalue Extraction from Video of Multiple-Mass Pendulum\n\n\n\n\n\nVirginia Tech Computational Modeling & Data Analytics Senior Capstone\nSpring 2024\n\nAdvised by Dr. Mark Embree, this project sought to design a hands-on experiment for students in CMDA 3605 courses to see eigenvalues in action. The experiment involved collecting high-speed video of a swinging pendulum with multiple connected masses, converting the video to time series data, processing the time series data to extract the fundamental frequencies, and finally comparing the experimental values to theoretical ones.\n\nFull Report",
+    "crumbs": [
+      "Projects"
+    ]
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I offer private tutoring services, availability-allowing. For all inquiries, please email me here (atticusd1@ gmail.com).",
+    "crumbs": [
+      "Teaching"
+    ]
+  },
+  {
+    "objectID": "teaching.html#experience",
+    "href": "teaching.html#experience",
+    "title": "Teaching",
+    "section": "Experience",
+    "text": "Experience",
+    "crumbs": [
+      "Teaching"
+    ]
+  }
+]

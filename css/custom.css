@@ -1,0 +1,27 @@
+/* Adjust the font size of sidebar navigation links */
+.sidebar-title {
+    font-size: 32px; /* Change to your desired font size */
+    font-weight: bold;
+}
+
+.sidebar-item-text {
+    font-size: 24px;
+    margin-bottom: 15px; /* Adds space below each link */
+}
+
+.callout-title-container {
+    font-size:20px; 
+}
+
+.quarto-figure {
+    margin-top:40%;
+    vertical-align:middle;
+}
+
+div.callout-tip.callout {
+    border-left-color: #007404;
+}
+
+.title {
+    font-size:40pt;
+}
