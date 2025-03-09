@@ -1,6 +1,5 @@
 ---
 title: "Resume"
-
 number-sections: false
 ---
 
