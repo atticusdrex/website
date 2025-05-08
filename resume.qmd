@@ -17,7 +17,7 @@ Fall 2024 - Present
 
 **Home Unit:** Aerospace Engineering  
 **Advisor:** Elizabeth Qian, Ph.D.  
-**Awards:** MSA Fellowship Award Recipient, GTA Funding
+**Awards:** NSF Graduate Research Fellow
 :::
 
 :::{.callout-note collapse="false" appearance="minimal"}
