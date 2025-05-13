@@ -15,7 +15,7 @@ number-sections: false
 </p>
 :::
 :::{.column width="84%"}
-I am excited to announce that I have accepted a research internship for Summer 2025 working with Dr. David Peterson of the Wright-Patterson Air Force Research Lab working on testing my new multi-fidelity surrogate modeling research on real experimental problems in the Aerospace field. 
+I am excited to announce that I have accepted a research internship for Summer 2025 working with Dr. David Peterson of the Wright-Patterson Air Force Research Lab working on testing my new multi-fidelity surrogate modeling research on real experimental problems in the field of Aerospace Engineering. 
 :::
 :::
 
@@ -33,7 +33,7 @@ I am excited to announce that I have accepted a research internship for Summer 2
 </p>
 :::
 :::{.column width="84%"}
-I am thrilled to announce I have received the National Science Foundation's Graduate Research Fellowship Program. This would not have been possible without the support of my advisor, Dr. Elizabeth Qian, and I am immensely grateful for her investment and guidance. Due to federal funding cuts to research, only 1,000 U.S. graduate students were awarded the GRFP. See more information [here](https://news.gatech.edu/news/2025/04/15/nsf-awards-fellowships-georgia-tech-graduate-students){.external target="_blank"}. 
+I am thrilled to announce I have received the National Science Foundation's Graduate Research Fellowship Program. This would not have been possible without the support of my advisor, Dr. Elizabeth Qian, and I am immensely grateful for her investment and guidance. See more information [here](https://news.gatech.edu/news/2025/04/15/nsf-awards-fellowships-georgia-tech-graduate-students){.external target="_blank"}. 
 :::
 :::
 
@@ -51,7 +51,7 @@ I am thrilled to announce I have received the National Science Foundation's Grad
 </p>
 :::
 :::{.column width="84%"}
-I am happy to report that in Spring 2025, I have passed my Ph.D. qualifying exams for the Computational Science and Engineering Doctor of Philosophy degree. I took two written exams in the areas of Computational Data Analytics and Discrete Algorithms. Following the written exams, I took an oral exam which consisted of a compiled research document and computational artifact. I presented these to a committee of CSE faculty consisting of Dr. Elizabeth Qian (advisor), Dr. Peng Chen (chair), Dr. Raphael Pestourie, Dr. Florian Schäfer. I express my profuse thanks to this distinguished group for taking time out of their busy schedules to hear my research and evaluate my degree progress. 
+I am happy to report that in Spring 2025, I have passed my Ph.D. qualifying exams for the Computational Science and Engineering Doctor of Philosophy degree. I took two written exams in the areas of Computational Data Analytics and Discrete Algorithms. Following the written exams, I took an oral exam which consisted of a compiled research document and computational artifact. I presented these to a committee of CSE faculty consisting of Dr. Elizabeth Qian (advisor), Dr. Peng Chen (chair), Dr. Raphael Pestourie, Dr. Florian Schäfer. I express my profuse thanks to this distinguished group for taking time out of their busy schedules to perform this evaluation. 
 :::
 :::
 
@@ -69,7 +69,7 @@ I am happy to report that in Spring 2025, I have passed my Ph.D. qualifying exam
 </p>
 :::
 :::{.column width="84%"}
-After much consideration, I have decided not to complete the M.S. in Computational Data Analytics program that I started at Georgia Tech in Fall 2023. Instead, I will pursue a Ph.D. in Computational Science and Engineering under the advisorship of Dr. Elizabeth Qian, to whom I was introduced by my undergraduate mentors Dr. Serkan Gugercin and Dr. Mark Embree. This is largely due to my desire to perform research in numerical methods and data-driven modeling, to pursue undergraduate education, and to develop my technical skillset as an engineer and quantitative analyst.  
+After much consideration, I have decided not to complete the M.S. in Computational Data Analytics program that I started at Georgia Tech in Fall 2023. Instead, I will pursue a Ph.D. in Computational Science and Engineering under the advisorship of Dr. Elizabeth Qian, to whom I was introduced by my undergraduate mentors Dr. Serkan Gugercin and Dr. Mark Embree. This is largely due to my desire to perform research in numerical methods and data-driven modeling, to pursue undergraduate education, and to develop my technical skillset as an engineer and mathematician.  
 :::
 :::
 
