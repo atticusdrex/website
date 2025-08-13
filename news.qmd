@@ -3,6 +3,7 @@ title: "News & Updates"
 number-sections: false
 ---
 
+
 :::{.callout-note collapse="false" appearance="minimal"}
 ## Accepted Internship at Wright-Patterson Air Force Research Lab 
 *May 2025*
