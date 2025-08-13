@@ -21,7 +21,7 @@ number-sections: false
 ---
 
 # About
-I am a Ph.D. student at Georgia Tech in the Computational Science and Engineering (CSE) department with a home unit in Aerospace Engineering. I received a B.S. in Mechanical Engineering and a B.S. in Computational Modeling and Data Analytics from Virginia Tech. My research interests include machine learning, surrogate modeling, kernel methods, and uncertainty quantification. 
+I am a Ph.D. candidate at Georgia Tech in the Computational Science and Engineering (CSE) department with a home unit in Aerospace Engineering. I received a B.S. in Mechanical Engineering and a B.S. in Computational Modeling and Data Analytics from Virginia Tech. My research interests include machine learning, surrogate modeling, kernel methods, and uncertainty quantification. 
 
 <p style="text-align:center; vertical-align:middle;padding-top:0%">
     <img src="images/Drawing.png" style="width:100%;text-align:left;">
