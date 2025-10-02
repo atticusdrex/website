@@ -4,6 +4,19 @@ number-sections: false
 ---
 
 :::{.callout-note collapse="false" appearance="minimal"}
+## Hyperkriging: Multi-Fidelity Features for High-Fidelity Kriging Models
+***Doctoral Research***  
+Fall 2024-Present
+---
+
+When high-fidelity data is expensive to obtain in large quantities, engineers often use cheaper "low-fidelity" models instead. Multi-fidelity surrogate modeling combines high and low-fidelity data to train a surrogate model which is cheaper to evaluate than the high-fidelity model, but more accurate than the low-fidelity models. Many existing multi-fidelity approaches rely on Kriging (Gaussian Processes), a nonlinear regression method with built-in uncertainty estimation. These Kriging-based approaches can be classified as either coKriging or autoregressive. CoKriging estimators use multi-output Gaussian Processes to relate the levels of fidelity. This approach is often limited by large matrix inversions and inexpressive kernels. Autoregressive estimators are cheaper to train than coKriging models, but approximate each fidelity-level sequentially using the level immediately beneath it. This induces a Markovian property which ignores statistical information provided by the lower-fidelity functions. Further, autoregressive methods assume a known accuracy hierarchy and some methods assume noiseless or \enquote{nested} training data. We propose a novel multi-fidelity Kriging method which benefits from the efficiency of autoregressive estimators while removing the limiting Markovian structure, accuracy ordering, noiseless/nested training data, and expensive low-fidelity Kriging models. We demonstrate improved accuracy and tighter confidence intervals compared to existing methods on various multi-fidelity test problems. <br>
+
+<p style="margin-top:24pt; font-size:14pt">
+[Poster](pdfs/HyperkrigingPoster.pdf){.external target="_blank"}
+</p> 
+:::
+
+:::{.callout-note collapse="false" appearance="minimal"}
 ## Best Buy Project Week 2024: First Place Winner
 ***Georgia Tech MSA Project Week sponsored by Best Buy***  
 Spring 2024

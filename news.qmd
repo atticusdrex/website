@@ -3,6 +3,24 @@ title: "News & Updates"
 number-sections: false
 ---
 
+:::{.callout-note collapse="false" appearance="minimal"}
+## UT Austin SciML Poster Session 
+*Sept 2025*
+---
+
+:::{.columns2}
+:::{.column width="15%"}
+<p style="text-align:center;">
+    <img src="images/UTAustinLogo.png" style="width:80%;text-align:center;">
+</p>
+:::
+:::{.column width="84%"}
+I am proud to have presented my research on multi-fidelity surrogate modeling at the University of Texas Austin Scientific Machine Learning for Differential Equations. This conference featured a diverse selection of speakers on advancement in machine learning, statistical inference, computational methods, and data-driven model discovery.
+:::
+:::
+
+:::
+
 
 :::{.callout-note collapse="false" appearance="minimal"}
 ## Accepted Internship at Wright-Patterson Air Force Research Lab 
