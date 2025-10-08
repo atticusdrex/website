@@ -4,7 +4,8 @@ number-sections: false
 ---
 
 <p style="font-size:14pt">
-[Atticus Rex Resume PDF](pdfs/AtticusRexResume.pdf){.external target="_blank"}
+[Resume](pdfs/AtticusRexResume.pdf){.external target="_blank"
+[CV](pdfs/AtticusRexCV.pdf){.external target="_blank"}
 </p>
 
 ##  Education
