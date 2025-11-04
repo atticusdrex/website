@@ -11,8 +11,9 @@ website:
     contents:
       - text: "Home"
         href: index.qmd
-      - text: "Resume"
-        href: resume.qmd
+      - text: "CV"
+        href: pdfs/AtticusRexCV.pdf
+        target: _blank
       - text: "Projects"
         href: projects.qmd 
       - text: "News"
